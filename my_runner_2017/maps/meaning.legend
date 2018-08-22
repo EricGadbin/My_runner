@@ -1,0 +1,5 @@
+The map is in one string:
+
+the '1' is for an ennemy on the ground and a fireball.
+the '2' is for a flying ennemy and a fireball.
+the '3' is for the last ennemy of the map, if you kill him, you win.
